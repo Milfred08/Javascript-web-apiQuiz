@@ -54,7 +54,7 @@ Steps to navidate the quiz.
 ![nav-menu](./assets/images/answer-incorrect.JPG?raw=true "correct-answer")
 
 ### There are two end quiz situations: Either the user finishes the quiz or the timer ends at 0.
-#### If the user finishes all the qustions, the user will be able to enter their initials to save the score.
+#### If the user finishes all the questions, the user will be able to enter their initials to save the score.
 #### If the user does not end the quiz on time, the user will need to start the quiz again from the beggining.
 
 ![nav-menu](./assets/images/quiz-finished.JPG?raw=true "quiz-ended")
