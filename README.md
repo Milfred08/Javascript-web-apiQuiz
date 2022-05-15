@@ -30,7 +30,7 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://esroleo.github.io/web-api-challenge-code-quiz/
+https://milfred08.github.io/Javascript-web-apiQuiz/
 ```
 <a name="usage"></a>
 ## 3. Usage Tips
@@ -82,11 +82,6 @@ Steps to navidate the quiz.
 ### Click on View High Scores to check your quiz score!
 
 ![nav-menu](./assets/images/view-high-scores-full-screen.JPG?raw=true "view-high-scores-full-screen")
-
-
-<a name="contributing"></a>
-## 4. Contributing
-Pull requests are welcome. For major changes, please open let repository owner know to discuss what would you like to change.
 
 <a name="license"></a>
 ## 5. License
