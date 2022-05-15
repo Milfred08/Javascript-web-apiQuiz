@@ -3,8 +3,7 @@
 1. [ Description. ](#desc)
 2. [ Web Address. ](#web-address)
 3. [ Usage tips. ](#usage)
-4. [ Contributing. ](#contributing)
-5. [ License. ](#license)
+4. [ License. ](#license)
 
 
 <a name="desc"></a>
@@ -64,7 +63,7 @@ Steps to navidate the quiz.
 
 ### End quiz details
 #### If new user initial, the user will be able to enter their score.
-#### If user tries to enter score again with same inititials, alert will show with proper response.
+#### If user tries to enter score again with same initials, alert will show with proper response.
 #### If user takes quiz again and gets a better score, the system will allow it.
 #### If user takes quiz and does worse, the system will not log the lower score.
 
