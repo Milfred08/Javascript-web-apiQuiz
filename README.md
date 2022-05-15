@@ -84,7 +84,7 @@ Steps to navidate the quiz.
 ![nav-menu](./assets/images/view-high-scores-full-screen.JPG?raw=true "view-high-scores-full-screen")
 
 <a name="license"></a>
-## 5. License
+## 4. License
 None
 
 
